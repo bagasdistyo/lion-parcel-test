@@ -65,16 +65,16 @@ Aggregation by `customer_id + month_year`:
 ---
 
 ## 🧾 Files in Project
-```
+
 project/
-│── shipments_raw.xlsx              # Raw source data
-│── customers_raw.xlsx              # Customer master data
-│── etl_shipment.py           # Transformation script (Silver)
-│── build_mart.py                   # Data mart script (Gold)
-│── shipment_transformed.csv        # Output: cleaned shipment data
-│── shipment_performance.csv        # Output: customer monthly performance mart
+├── shipments_raw.xlsx          # Raw source data
+├── customers_raw.xlsx          # Customer master data
+├── etl_shipment.py             # Transformation script (Silver)
+├── build_mart.py               # Data mart script (Gold)
+├── shipment_transformed.csv    # Output: cleaned shipment data
+├── shipment_performance.csv    # Output: customer monthly performance mart
 └── README.md
-```
+
 
 
 ---

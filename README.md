@@ -1,8 +1,11 @@
 # 📦 Lion Parcel Data Analytics — ETL & Data Mart Project
 
 ## 🎯 Objective
-Project ini bertujuan untuk melakukan proses data preparation dan membangun data mart shipment performance. Proses ini meniru pipeline modern data warehouse:
+Transform raw transactional data into a structured dataset ready for reporting and dashboards.  
 
+The goals are:  
+- Clean and standardize raw data into an **analysis-ready dataset**.  
+- Build a **data mart layer** summarizing shipment performance by **customer** and **month**.
 - **Bronze Layer:** raw file input
 - **Silver Layer:** clean & standardized shipment data
 - **Gold Layer:** customer shipment performance mart (monthly)

@@ -136,10 +136,10 @@ The scripts perform:
 
 Example log output:
 
-Dropping 1 delivered rows without delivered_date
-Removing 0 invalid delivery rows
-shipment_transformed.csv created successfully — shape: (998, 13)
-shipment_performance.csv created
+- Dropping 1 delivered rows without delivered_date
+- Removing 0 invalid delivery rows
+- shipment_transformed.csv created successfully — shape: (998, 13)
+- shipment_performance.csv created
 
 ---
 
